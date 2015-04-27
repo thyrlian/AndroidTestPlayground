@@ -3,4 +3,11 @@
 
     <string name="welcome">Welcome to Android Test Playground</string>
     <string name="action_settings">Settings</string>
+
+    <!-- Button texts for launching activities -->
+    <string name="btn_to_launch_activity_call">Start Call Activity</string>
+
+    <!-- Call Activity -->
+    <string name="activity_label_call">Call Activity</string>
+    <string name="btn_call">Call</string>
 </resources>
